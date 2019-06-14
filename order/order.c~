@@ -1,0 +1,13 @@
+#include <iostream>
+#include <stdlib.h>
+#include "mystack.h"
+#include "myqueue.h"
+using namespace std;
+
+void park(Sqstack &S)
+{
+    if(!isEmpty(S))
+    {
+
+    }
+}
